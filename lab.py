@@ -1,6 +1,6 @@
 # Global code labe 1 & 2 code
 #Code to check assessment
-
+#
 x=int(input("Please enter your grade for class exercise \n"))
 if x<=30:
     print("You entered: ",x," as your class assesment")
